@@ -1,3 +1,0 @@
-experiment 1
-experiment 1
-server 1
